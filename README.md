@@ -55,6 +55,7 @@ I have knowledge in the mange of pipelines of CI/CD to automate processes using 
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="24"> Kubernetes
 - <img src="https://a.slack-edge.com/80588/img/plugins/circleci/service_512.png" alt="CircleCI" width="24"> CircleCI
 - <img src="https://ricardogeek.com/wp-content/uploads/2018/06/jenkins-ci_512.png" alt="Jenkins" width="24"> Jenkins
+- <img src="https://3.bp.blogspot.com/-9_-b0nEDB94/XDeXlBAancI/AAAAAAAAEo0/T7V1-SK_MWcXgNDxbrk1uJTaPTDZPATyACLcBGAs/s1600/helm.png" alt="Helm" width="24"> Helm
 
 ### Tools
 --- 
@@ -72,14 +73,13 @@ I have knowledge in the mange of pipelines of CI/CD to automate processes using 
 [![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmerreal98&show_icons=true&count_private=true)](https://github.com/elmerreal98)
 
 ### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-EKS&show_owner=true)](https://github.com/elmerreal98/Trambo-EKS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-ECS&show_owner=true)](https://github.com/elmerreal98/Trambo-ECS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-CircleCI&show_owner=true)](https://github.com/elmerreal98/Trambo-CircleCI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-CloudFormation&show_owner=true)](https://github.com/elmerreal98/Trambo-CloudFormation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Dockerfile&show_owner=true)](https://github.com/elmerreal98/Trambo-Dockerfile)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Terraform&show_owner=true)](https://github.com/elmerreal98/Trambo-Terraform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Dockerfile&show_owner=true)](https://github.com/elmerreal98/Trambo-Dockerfile)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Docker-Compose&show_owner=true)](https://github.com/elmerreal98/Trambo-Docker-Compose)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-ECS&show_owner=true)](https://github.com/elmerreal98/Trambo-ECS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-EKS&show_owner=true)](https://github.com/elmerreal98/Trambo-EKS)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
