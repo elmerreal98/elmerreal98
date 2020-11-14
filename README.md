@@ -18,6 +18,8 @@ I'm looking for an opportunity as junior DevOps Engineer. At the moment I don't 
 Some of my qualifications are fast learner, hard worker, and be a team player. I also have experience in many programming languages, databases, scripting language, DevOps tools, and cloud platforms.
 
 I have knowledge in the mange of pipelines of CI/CD to automate processes using Circle Ci.
+
+I also recorded a series of the use of Docker and Kubernetes (in spanish).
 </p>
 </div>
 
@@ -80,6 +82,7 @@ I have knowledge in the mange of pipelines of CI/CD to automate processes using 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Docker-Compose&show_owner=true)](https://github.com/elmerreal98/Trambo-Docker-Compose)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-ECS&show_owner=true)](https://github.com/elmerreal98/Trambo-ECS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-EKS&show_owner=true)](https://github.com/elmerreal98/Trambo-EKS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trainning-Docker---K8&show_owner=true)](https://github.com/elmerreal98/Trainning-Docker---K8)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
