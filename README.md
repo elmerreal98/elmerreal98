@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Elmer Real](https://elmerreal.wordpress.com/)
-> Finished curricular in Computer Science at Universidad de San Carlos  (USAC, Guatemala)
+> Finished curriculum in Computer Science at Universidad de San Carlos  (USAC, Guatemala)
 
 > Former student of [Trambo](https://trambo.cloud/) program "From Dev to DevOps"
 
@@ -39,6 +39,7 @@ I have knowledge in the mange of pipelines of CI/CD to automate processes using 
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24"> JavaScript
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24"> Python
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="24"> PHP
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="PHP" width="24"> Go
 
 
 ### Cloud Platforms
@@ -72,13 +73,18 @@ I have knowledge in the mange of pipelines of CI/CD to automate processes using 
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=PackageTemplate&show_owner=true)](https://github.com/elmerreal98/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Foods-Ecommerce&show_owner=true)](https://github.com/elmerreal98/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-EKS&show_owner=true)](https://github.com/elmerreal98/Trambo-EKS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-ECS&show_owner=true)](https://github.com/elmerreal98/Trambo-ECS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-CircleCI&show_owner=true)](https://github.com/elmerreal98/Trambo-CircleCI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-CloudFormation&show_owner=true)](https://github.com/elmerreal98/Trambo-CloudFormation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Dockerfile&show_owner=true)](https://github.com/elmerreal98/Trambo-Dockerfile)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Terraform&show_owner=true)](https://github.com/elmerreal98/Trambo-Terraform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Docker-Compose&show_owner=true)](https://github.com/elmerreal98/Trambo-Docker-Compose)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.elmerreal.wordpress.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.elmerreal.wordpress.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://elmerreal.wordpress.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.elmerreal.wordpress.com-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/elmerreal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ElmerReal-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/9435295/elmer-real?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Elmer%20Real-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:elmerreal98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elmerreal98@gmail.com-blue?style=flat&logo=gmail"></a>
