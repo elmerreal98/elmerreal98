@@ -19,7 +19,7 @@ Some of my qualifications are fast learner, hard worker, and be a team player. I
 
 I have knowledge in the mange of pipelines of CI/CD to automate processes using Circle Ci.
 
-I also recorded a series of the use of Docker and Kubernetes (in spanish).
+I also recorded a series of training videos about the use of Docker and Kubernetes (in spanish).
 </p>
 </div>
 
@@ -82,7 +82,7 @@ I also recorded a series of the use of Docker and Kubernetes (in spanish).
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-Docker-Compose&show_owner=true)](https://github.com/elmerreal98/Trambo-Docker-Compose)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-ECS&show_owner=true)](https://github.com/elmerreal98/Trambo-ECS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trambo-EKS&show_owner=true)](https://github.com/elmerreal98/Trambo-EKS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Trainning-Docker---K8&show_owner=true)](https://github.com/elmerreal98/Trainning-Docker---K8)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elmerreal98&repo=Training-Docker---K8&show_owner=true)](https://github.com/elmerreal98/Training-Docker---K8)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
