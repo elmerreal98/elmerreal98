@@ -13,7 +13,7 @@
 
 <div>
  <p>
-I'm looking for an opportunity as junior DevOps Engineer. At the moment I don't have any professional experience but I trust that I have the knowledges, skills, and motivation to help businesses to reduce the gap between development and operations. My aspiration is to grow and become and expert in Cloud  Computing and DevOps.  
+I'm looking for an opportunity as junior DevOps Engineer. At the moment I don't have any professional experience but I trust that I have the knowledges, skills, and motivation to help businesses to reduce the gap between development and operations. My aspiration is to grow and become an expert in Cloud  Computing and DevOps.  
 
 Some of my qualifications are fast learner, hard worker, and be a team player. I also have experience in many programming languages, databases, scripting language, DevOps tools, and cloud platforms.
 
