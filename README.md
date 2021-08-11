@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Elmer Real](https://elmerreal.wordpress.com/)
-> Finished curriculum in Computer Science at Universidad de San Carlos  (USAC, Guatemala)
+> Computer Science Engineer gratuated at Universidad de San Carlos  (USAC, Guatemala)
 
 > Former student of [Trambo](https://trambo.cloud/) program "From Dev to DevOps"
 
