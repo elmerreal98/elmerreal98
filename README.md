@@ -8,12 +8,13 @@
 
 > Former student of [Trambo](https://trambo.cloud/) program "From Dev to DevOps"
 
+> DevOps Enginer with 3+ years of experience.
 
 <img src="https://komarev.com/ghpvc/?username=elmerreal98" alt="elmerreal98" />
 
 <div>
  <p>
-I'm looking for an opportunity as junior DevOps Engineer. At the moment I don't have any professional experience but I trust that I have the knowledges, skills, and motivation to help businesses to reduce the gap between development and operations. My aspiration is to grow and become an expert in Cloud  Computing and DevOps.  
+Hi there, thanks for taking the time to check my profile. I'm looking for an opportunity as DevOps Engineer. I have been working the last 3 years as DevOps engineer for multiple companies (product and consulting companies). I consider myself as a self-thought person and someone driven by results. And i would like to belong to a company where i can grow as professional. I have skills on the data analytics realm as well and i am interested in any challenging project where i can make the difference and contribuite with my skills. 
 
 Some of my qualifications are fast learner, hard worker, and be a team player. I also have experience in many programming languages, databases, scripting language, DevOps tools, and cloud platforms.
 
@@ -69,6 +70,20 @@ I also recorded a series of training videos about the use of Docker and Kubernet
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="24"> Windows
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24"> Linux
 
+## Data
+- R
+- Pandas
+- Knime
+- Tableau
+- PowerBI
+- Asterisk
+- PySpark
+- Hadoop ecosystem (HDFS, Oziee, Sqoop, Hive, etc).
+- AWS Data services
+  - AWS Glue
+  - Sagemaker
+  - S3
+  - Amazon Quicksight.
 
 ### Github Stats
 
